@@ -7,4 +7,4 @@ Basil and Sadhana likes how I created two maps and the earthquake overlay for my
 ### CSS File
 ![Style CSS](Earthquake_Challenge/static/css/style.css)
 ### JavaScript File
-![Style CSS](Earthquake_Challenge/static/js/challenge_logic.js)
+![JavaScript](Earthquake_Challenge/static/js/challenge_logic.js)
